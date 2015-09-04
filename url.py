@@ -19,7 +19,12 @@ IMAGES = {
         "ofer uggs",
         "goldstein uggs",
         "tulioz uggs"
-    ]
+    ],
+    "cooper.jpg": [
+        "cooper smiling",
+        "hearsay dog",
+        "cooper kater",
+        "bestest dog",
 }
 
 
