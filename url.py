@@ -25,6 +25,7 @@ IMAGES = {
         "hearsay dog",
         "cooper kater",
         "bestest dog",
+    ],
 }
 
 
